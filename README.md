@@ -8,3 +8,4 @@ https://github.com/Nhlamuselo/File-Handling-and-Exception-Handling-Assignment.gi
 >>>>>>> c7fdfde5928d9a48a279e364a3f1fe716a476744
 #Introduction to SQL and Basic Queries
 Introduction to SQL and Basic Queries
+# wk-2a-Nhlamuselo
