@@ -13,3 +13,4 @@ Introduction to SQL and Basic Queries
 # wk-2a-Nhlamuselo
 # wk-2a-Nhlamuselo
 # Mastering-the-Art-of-Pitch-Decks-Crafting-a-Compelling-Presentation-for-Investors-Assignement
+# Mastering-the-Art-of-Pitch-Decks-Crafting-a-Compelling-Presentation-for-Investors-Assignement
