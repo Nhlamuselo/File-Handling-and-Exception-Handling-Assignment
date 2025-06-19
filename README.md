@@ -16,3 +16,4 @@ Introduction to SQL and Basic Queries
 # Mastering-the-Art-of-Pitch-Decks-Crafting-a-Compelling-Presentation-for-Investors-Assignement
 Cryptobuddy-Chatbot
 # week-1-mongodb-fundamentals-assignment-Nhlamuselo
+#AI-Toools-and-Application
