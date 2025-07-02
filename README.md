@@ -20,3 +20,4 @@ Cryptobuddy-Chatbot
 # AI-in-Software-Engineering
 # Understanding-the-AI-Development-Workflow
 # Understanding-the-AI-Development-Workflow
+# AI-Future-Directions-Assignment
